@@ -1,9 +1,3 @@
-//var puzzlepieces = $$("div#puzzlearea div");
-//for (var i = 0; i < puzzlepieces.length; i++) {
-  //  $('puzzlepieces')[i].addClass(puzzlepiece);
-//}
-
-
 var div;
 var bl;
 var emptyY;
